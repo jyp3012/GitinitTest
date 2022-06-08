@@ -6,21 +6,5 @@
 - Conflict 해결 방법 + Merge
 
 <code>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>이건 새로운 기능!!!!</title>
-</head>
-<body>
-    <p>
-        충돌은 나지 않았고 
-        지금은 fork를 배우고 있습니다!!!!!!!!!
-    </p>
-
-</body>
-</html>
-
+System.out.print("Hello Git KraKen")
 </code>
